@@ -7,4 +7,6 @@ I began working on their LLaVA fine-tuning tutorial on YouTube and unfortunately
 
 This repo will show you how you can successfully fine-tune LLaVA on a custom dataset using Brev.
 
+(Eval steps not included here, but are included in the written steps below).
+
 Written steps here: https://medium.com/@tesswatt/fine-tune-llava-on-custom-dataset-using-nvidia-brev-c2b720b88802
